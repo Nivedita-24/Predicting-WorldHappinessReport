@@ -6,4 +6,8 @@ What if you're a president looking to improve their country? How would you do th
 
 The goal of this task is to find out what factors contribute to happiness. 
 
+Predictive Models-
+1) Multiple Linear Regression
+2) Regression Trees
+
 
