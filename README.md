@@ -9,5 +9,6 @@ The goal of this task is to find out what factors contribute to happiness.
 Predictive Models-
 1) Multiple Linear Regression
 2) Regression Trees
+3) Random Forest
 
 
